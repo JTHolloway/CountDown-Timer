@@ -168,7 +168,7 @@ public class JFrame extends javax.swing.JFrame implements ActionListener {
             }
         });
         getContentPane().add(Reset);
-        Reset.setBounds(270, 170, 61, 23);
+        Reset.setBounds(270, 170, 80, 23);
 
         Stop.setText("Stop");
         Stop.addActionListener(new java.awt.event.ActionListener() {
